@@ -2,6 +2,13 @@
 ## Guilherme
 <div align="center">
   <a href="https://github.com/Guilherme013S">
+
+
+    # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Guilherme013S&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme013S&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme013S&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme013S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme013S&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
