@@ -25,6 +25,8 @@
 <div align="center">
   <a href="https://github.com/Guilherme013S">
 
+    ![]([https://github-readme-stats.vercel.app](https://github.com/PencilNavigator/readme-stats-URL/)/api?username=Guilherme013S&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api?username=Guilherme013S&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
     <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme013S&theme=synthwave&hide_border=false)
