@@ -28,11 +28,11 @@
 <div align="center">
   <a href="https://github.com/Guilherme-so">
 
-![](https://github-readme-stats.vercel.app/api?username=Guilherme013S&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Guilherme-so&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
     <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme013S&theme=synthwave&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-so&theme=synthwave&hide_border=false)
     <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme013S&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-so&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
   
