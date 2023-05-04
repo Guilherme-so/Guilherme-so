@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://github.com/Guilherme013S">
+  <a href="https://github.com/Guilherme-so">
 
 ![](https://github-readme-stats.vercel.app/api?username=Guilherme013S&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
     <br/>
